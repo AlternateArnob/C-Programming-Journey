@@ -28,14 +28,14 @@ int main()
 
     // cannot start with number
     float m1 = 3; // allowed
-    float 2m = 5; // not allowed
+    // float 2m = 5; // not allowed
     float maths570all = 78; // allowed
 
     // special -> ! @ # $ % & * ( ) { } [ ] : ; " ' | \ / ~ ` + - = .
     // this are not allowed
     
     float ma,th = 98; // comma not allowed
-    float ma th = 99; // blank not allowed 
+    //float ma th = 99; // blank not allowed 
 
 
     float a1 = 9; 
