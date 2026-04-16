@@ -10,6 +10,6 @@ int main()
     // float = real number
 
     float a = 5;
-    printf("%f\n", a);  // wow 
+    printf("%f\n", a);  // wow. 5.000000
     return 0; 
 }

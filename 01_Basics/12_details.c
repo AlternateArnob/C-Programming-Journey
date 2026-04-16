@@ -12,5 +12,6 @@ int main()
     // is it like 5/2 = 2.5 but z is int so computer give him 2?
     // no. computer makes int/int=int; it never made 2.5; 
     // then how to avoid this? -> next file; 
+    // the solution is using float; 
     return 0; 
 }
