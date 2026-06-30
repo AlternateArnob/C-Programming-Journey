@@ -1,0 +1,35 @@
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Compiled binaries / build output =====
+*.exe
+*.out
+*.o
+*.obj
+*.gch
+*.pch
+a.out
+*.dSYM/
+
+# ===== Logs / generated text output =====
+*.log
+*.txt
+!README.txt
+
+# ===== Editor / IDE =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ===== Build folders =====
+build/
+bin/
+obj/
+
+# ===== Backup files =====
+*.bak
+*.tmp
